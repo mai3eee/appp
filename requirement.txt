@@ -1,14 +1,9 @@
 streamlit
-opencv-python
-pandas
-numpy
-Pillow
-scikit-learn
-matplotlib
 streamlit
-opencv-python
+opencv-python-headless
 pandas
 numpy
 Pillow
 scikit-learn
 matplotlib
+
