@@ -1,19 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[4]:
-
-
-get_ipython().system('pip install opencv-python')
-get_ipython().system('pip install opencv-python-headless')
-
-
-# In[10]:
-
-
-# Final Integrated Fashion Recommendation System
-# Face Detection + Skin Tone + Color Theory + Occasion Accessories
-# (For Jupyter Notebook)
 
 import pandas as pd
 import numpy as np
